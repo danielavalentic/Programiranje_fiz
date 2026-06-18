@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
 
-from Programiranje_fiz.Seminar_predaja.Binarne import BinaryStar
+from Binarne import BinaryStar
 
 # Stvarni astronomski podaci za Sirius A-B (izvor: https://enciklopedija.hr/clanak/sirius-astronomija)
 m1 = 2.02     # Sirius A
